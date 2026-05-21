@@ -1,0 +1,2 @@
+Demo video placeholder.
+Add sample_video.mp4 here later if the demo needs recorded video playback.

@@ -1,0 +1,22 @@
+app:
+  mode: "demo"
+  update_hz: 10
+
+server:
+  host: "127.0.0.1"
+  port: 8000
+
+mavlink:
+  connection: "udp:127.0.0.1:14540"
+
+lte:
+  listen_ip: "0.0.0.0"
+  listen_port: 15000
+
+video:
+  mode: "demo"
+  source: "../demo/sample_video.mp4"
+
+log:
+  enabled: true
+  directory: "./logs"

@@ -1,0 +1,25 @@
+{
+  "name": "Custom GCS Demo Mission",
+  "stages": [
+    {
+      "id": 1,
+      "name": "System Ready"
+    },
+    {
+      "id": 2,
+      "name": "Takeoff"
+    },
+    {
+      "id": 3,
+      "name": "Search Area Entry"
+    },
+    {
+      "id": 4,
+      "name": "Target Detection"
+    },
+    {
+      "id": 5,
+      "name": "Mission Complete"
+    }
+  ]
+}
